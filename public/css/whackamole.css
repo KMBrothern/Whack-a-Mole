@@ -1,0 +1,73 @@
+html{
+	background-color: red;
+	background-image: url("/img/vintageredcircus.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 45px;
+}
+.mainTitle{
+	font-size: 80px;
+	text-align: center;
+	margin-top: -145px;
+	text-shadow: 0 0 3px #f2cb28, 0 0 5px #fff;
+}
+#container{
+	height: 485px;
+	width: 485px;
+	margin-left: 530px;
+	margin-top: 20px;
+	position: relative;
+}
+.moleDivs{
+	background:red;
+	height: 120px;
+	width: 120px;
+	float: left;
+	border: 2px solid black;
+	position: relative;
+}
+#square1{
+	background-image: url("/img/image-1.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#square2{
+	background-image: url("/img/image-2.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#square3{
+	background-image: url("/img/image-3.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#square4{
+	background-image: url("/img/image-4.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#square5{
+	background-image: url("/img/image-5.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#square6{
+	background-image: url("/img/image-6.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#square7{
+	background-image: url("/img/image-7.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#square8{
+	background-image: url("/img/image-8.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#square9{
+	background-image: url("/img/image-9.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+}
