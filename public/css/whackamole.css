@@ -38,7 +38,8 @@ html{
 	height: 120px;
 	width: 120px;
 	float: left;
-	border: 2px solid black;
+	border: 2px solid transparents;
+	border-radius: 12px;
 	position: relative;
 }
 .square1{
@@ -94,7 +95,7 @@ html{
 	background-image: url("/img/image-11.gif");
 	background-repeat: no-repeat;
 	background-position: center;
-}.square12{
+}.square0{
 	background-image: url("/img/image-12.gif");
 	background-repeat: no-repeat;
 	background-position: center;
