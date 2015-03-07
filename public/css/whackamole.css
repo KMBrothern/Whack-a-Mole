@@ -1,9 +1,12 @@
+.pointer {
+   cursor: url("/img/tape.png"), pointer;
+}
 html{
 	background-color: #ab0c13;
 	background-image: url("/img/vintageredcircus.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
-	margin-top: 60px;
+	margin-top: 190px;
 
 }
 #startGame{
@@ -18,7 +21,7 @@ html{
 .mainTitle{
 	font-size: 80px;
 	text-align: center;
-	margin-top: -145px;
+	margin-top: -295px;
 	text-shadow: 0 0 3px #f2cb28, 0 0 5px #fff;
 }
 .display{
@@ -27,18 +30,19 @@ html{
 	font-size: 50px;
 }
 #container{
-	height: 500px;
-	width: 500px;
-	margin-left: 475px;
-	margin-top: 20px;
+	height: 373px;
+	width: 497px;
+	margin-left: 465px;
+	margin-top: 10px;
 	position: relative;
+	border-image: url("/img/border.png") 15 15 round;
 }
 .moleDivs{
 	background: #ab0c13;
 	height: 120px;
 	width: 120px;
 	float: left;
-	border: 2px solid transparents;
+	border: 2px solid transparent;
 	border-radius: 12px;
 	position: relative;
 }
